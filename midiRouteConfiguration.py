@@ -324,3 +324,20 @@ class defaultOutput:
 
 
 #list clients here-
+
+
+
+
+
+
+
+
+#keep this at the end and list available clients
+clientList = [
+            defaultClient
+            ]
+
+#for later use
+connections = []
+
+#to start midiRoute, call "./midiRoute.py defaultClient"
