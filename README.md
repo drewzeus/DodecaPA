@@ -23,5 +23,6 @@ a couple of mics
 Ardour
 3000 lines of code in my configuartion page
 
-please do attempt to contact me about this project if you have any interest.  I will continue to post updates about as I perfect each element.
+Please do attempt to contact me about this project if you have any interest.
+I will continue to post updates about as I continue to move each element closer to perfection.
 drewzeus (AT) gmail
